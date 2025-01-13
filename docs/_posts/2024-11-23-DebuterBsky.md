@@ -50,7 +50,7 @@ Il est aussi possible de créer soi-même de nouveaux fils d'actu, soit en les [
 
 ## Kits de démarrage (Starter Packs)
 
-Les kits de démarrage permettent de proposer une liste de personnes à suivre : on peut suivre d'un clic tous les comptes proposés. Les kits ont énormément contribué à la connectivité du réseau des contacts, en tout cas dans la communauté scientifique.
+Les kits de démarrage permettent de proposer une liste de personnes à suivre : on peut suivre d'un clic tous les comptes proposés. Les kits ont énormément contribué à la connectivité du réseau des contacts, en tout cas dans la communauté scientifique. Par exemple, en <a href= "https://go.bsky.app/HM6CfJ5">voici un</a> pour suivre des chercheurs et chercheuses de France en écologie et biologie évolutive.
 
 ### Comment les trouver   
 -  Vous pouvez en voir passer dans vos contacts ; n'hésitez pas à les repartager pour leur donner de la visibilité.  
@@ -64,7 +64,7 @@ go.bsky.app/ARRb7Xn<br><br><a href="https://bsky.app/profile/did:plc:73aicoale2m
 -  Il existe des annuaires ([ici](https://blueskydirectory.com/starter-packs/), et un plus récent [ici](https://blueskystarterpack.com)) des kits de démarrage, pratique pour rechercher des kits correspondant à vos intérêts.  
 
 -  Enfin, vous pouvez [créer](https://bsky.social/about/blog/06-26-2024-starter-packs) votre propre kit à partager, via l'onglet correspondant sur votre page de profil.  
-![Capture d'écran de l'onglet Kit de démarrage]({{ site.baseurl }}/assets/img/bsky_StarterPack-create.png)
+![Capture d'écran de l'onglet Kit de démarrage]({{ site.baseurl }}/assets/img/bsky_StarterPack-create.png).
 
 ### Comment savoir les kits dans lesquels on est
 
@@ -78,6 +78,11 @@ NB : Clearsky a été souvent en panne mi novembre suite à la croissance brutal
 La fonction de blocage sur Bluesky a été surnommée "nuclear block" : elle coupe les interactions entre le compte bloqué et le compte bloqueur, même pour les comptes extérieurs. Personne ne peut plus voir les réponses sur Bluesky (contrairement à Twitter/X, où le compte bloqué restait visible aux extérieurs, qui pouvaient continuer à répondre à la suite).
 
 La philosophie actuelle du réseau est de ne pas entrer dans des discussions agressives, mais de bloquer les trolls directement.
+
+### Masquer des comptes ou des mots
+
+Vous pouvez masquer (<i>mute</i>) des comptes ou des mots particuliers. Vous pouvez les définier dans Paramètres, Modération.  
+![Capture d'écran de l'option pour masquer des mots]({{ site.baseurl }}/assets/img/bsky_mute.png)
 
 ### Détacher les citations  
 
